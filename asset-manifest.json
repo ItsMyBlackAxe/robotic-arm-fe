@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/robotic-arm-fe/static/css/main.5035bf5d.css",
+    "main.js": "/robotic-arm-fe/static/js/main.b8f06238.js",
+    "static/js/453.0804f14f.chunk.js": "/robotic-arm-fe/static/js/453.0804f14f.chunk.js",
+    "index.html": "/robotic-arm-fe/index.html",
+    "main.5035bf5d.css.map": "/robotic-arm-fe/static/css/main.5035bf5d.css.map",
+    "main.b8f06238.js.map": "/robotic-arm-fe/static/js/main.b8f06238.js.map",
+    "453.0804f14f.chunk.js.map": "/robotic-arm-fe/static/js/453.0804f14f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5035bf5d.css",
+    "static/js/main.b8f06238.js"
+  ]
+}
